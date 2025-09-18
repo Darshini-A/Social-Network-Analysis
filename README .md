@@ -4,7 +4,7 @@ pandas - analyzing, cleaning, exploring & manipulating datasets
 [:] - slice a list, tuple or string
 pagerank - ranking of web pages acc to relevant query
 damping factor -  probability that a person will randomly click on a link on the current page instead of navigating away
-   if the d = 0.85, it means there's an 85% chance you'll click on a link
+      if the d = 0.85, it means there's an 85% chance you'll click on a link
 networkx - create, manipulate & study the structure, dynamics, functions of complex graph networks
 matplotlib - static, animated & interactive visualization
 DiGraph - directed graph; stores nodes and edges with optional data, or attributes
